@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrueMemorySquare</string>
+
+    <string name="score">Score :</string>
+    <string name="level">Level :</string>
+    <string name="life">Life :</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
